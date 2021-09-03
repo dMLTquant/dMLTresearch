@@ -1,6 +1,6 @@
 **NAVIGATION**
 
-•• **[home](/README.md)** •• **docs** [index](/docs/index.md) ••
+•• **[home](/README.md)** •• **finance** [index](/finance/index.md) ••
 
 # research
 
