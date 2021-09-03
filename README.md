@@ -7,8 +7,9 @@
 ---
 
 <p align="center">
-  <b>dMLTquant RESEARCH</b></br>
-  <b>Personal research regarding investing services and tools, financial data, quantitative research and algorithmic trading. Some references and notes on python, pine script and other programing tools, languages and frameworks</b>
+  <b>dMLT RESEARCH</b></br>
+  Research regarding investing services and tools, financial data, quantitative analysis and algorithmic trading.</br>
+  Some references and notes on python, pine script and other programing tools, languages and frameworks.
 </p> 
 
 ---
