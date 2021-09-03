@@ -6,7 +6,10 @@
 
 ---
 
-# research
+<p align="center">
+  <b>dMLTquant RESEARCH</b></br>
+  <b>Personal research regarding investing services and tools, financial data, quantitative research and algorithmic trading. Some references and notes on python, pine script and other programing tools, languages and frameworks</b>
+</p> 
 
 **QUICK LINKS**
 
