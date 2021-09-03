@@ -2,16 +2,10 @@
 
 # research
 
-- [a relative link](docs/index.md)
-- [a relative link](./docs/index.md)
-- [a relative link](index.md)
+---
 
-- [#f03c15](/README.md?text=+) `#f03c15`
+**QUICK LINKS**
 
-# My GitHub README
+•• **news** • [Bloomberg](https://www.bloomberg.com/) •• **calendar** [TradingEconomics](https://tradingeconomics.com/calendar) •• **charts** • [TradingView](https://www.tradingview.com/) •• **forex** • [MarketMilk](https://marketmilk.babypips.com) •• **research** • [DocoH](https://docoh.com/) • [KoyFin](https://app.koyfin.com/) ••
 
-Welcome to my README!
-
-<div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
-</div>
+---
