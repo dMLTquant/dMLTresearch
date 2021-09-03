@@ -1,10 +1,8 @@
-**NAVIGATION**
-
-•• **[home](/README.md)** •• **finance** [index](/finance/index.md) ••
-
-# Finance index
+•• **navigation** • **[home](/README.md)** •• **finance** • [index](/finance/index.md) • [technical analysis](/finance/index.md#technical-analysis) ••
 
 ---
+
+# Finance index
 
 ## Technical analysis
 
@@ -14,4 +12,3 @@
 
 - [autoregressive Integrated Moving Average (ARIMA)](/finance/technical-analysis/autoregressive-integrated-moving-average.md) 
 
----
