@@ -1,10 +1,8 @@
-**NAVIGATION**
-
-•• **[home](/README.md)** •• **finance** [index](/finance/index.md) ••
-
-# Autoregressive Integrated Moving Average (ARIMA)
+•• **navigation** • **[home](/README.md)** •• **finance** • [index](/finance/index.md) • [technical analysis](/finance/index.md#technical-analysis) ••
 
 ---
+
+# Autoregressive Integrated Moving Average (ARIMA)
 
 > Start extract from [Investopedia](https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp)
 
@@ -31,4 +29,3 @@ Each component in ARIMA functions as a parameter with a standard notation. For A
 - `q` : the size of the moving average window; also known as the order of the moving average.
 
 > End extract from [Investopedia](https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp)
----
