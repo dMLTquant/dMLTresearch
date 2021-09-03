@@ -17,3 +17,36 @@ Several popular ways to measure GDP, all of which are drawn from the World Bank 
 - Purchasing Power Parity (PPP) Adjusted GDP in Current International Dollars: This is an alternative way of comparing nominal GDP among countries, adjusting currencies based on what basket of goods they could buy in those countries rather than currency exchange rates. This is a way to adjust for the difference in the cost of living between different countries.
 - GDP Growth: This is the annual percent growth rate of nominal GDP in local prices and currencies, which estimates how fast a country’s economy is growing.
 - GDP Per Capita, in Current U.S. Dollars: This is nominal GDP divided by the number of people in a country. GDP per capita measures how much a country’s economy produces per person, rather than in total. This can also act as a very rough measure of income or standard of living for individuals living in a country.
+
+## Richest countries in the world by GDP
+
+1. United States 
+2. China 
+3. Japan 
+4. Germany 
+5. India 
+6. United Kingdom 
+7. France 
+8. Italy 
+9. Brazil 
+10. Canada 
+11. Russia 
+12. South Korea 
+13. Australia 
+14. Spain 
+15. Mexico 
+16. Indonesia 
+17. Netherlands 
+18. Saudi Arabia 
+19. Turkey 
+20. Switzerland 
+21. Poland 
+22. Thailand 
+23. Sweden 
+24. Belgium 
+25. Nigeria 
+
+---
+
+## Reference
+[Investopedia | Countries by GDP: The Top 25 Economies in the World](https://www.investopedia.com/insights/worlds-top-economies/)
