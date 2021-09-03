@@ -18,5 +18,5 @@
   
 ### Advanced concepts
 
-- [autoregressive Integrated Moving Average (ARIMA)](/finance/technical-analysis/autoregressive-integrated-moving-average.md) 
+- [Autoregressive Integrated Moving Average (ARIMA)](/finance/technical-analysis/autoregressive-integrated-moving-average.md) 
 
