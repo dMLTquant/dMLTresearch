@@ -4,8 +4,6 @@
 
 # Autoregressive Integrated Moving Average (ARIMA)
 
-> Start extract from [Investopedia](https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp)
-
 An autoregressive integrated moving average, or ARIMA, is a statistical analysis model that uses time series data to either better understand the data set or to predict future trends. 
 
 A statistical model is autoregressive if it predicts future values based on past values. For example, an ARIMA model might seek to predict a stock's future prices based on its past performance or forecast a company's earnings based on past periods.
@@ -28,4 +26,8 @@ Each component in ARIMA functions as a parameter with a standard notation. For A
 - `d` : the number of times that the raw observations are differenced; also known as the degree of differencing.
 - `q` : the size of the moving average window; also known as the order of the moving average.
 
-> End extract from [Investopedia](https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp)
+--- 
+
+## References
+
+-[Investopedia | Autoregressive Integrated Moving Average](https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp)
