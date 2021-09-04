@@ -8,6 +8,10 @@
 
 # Finance index
 
+## Data
+
+- [Commitment of Traders (COT)](/finance/data/cot--commitments-of-traders.md)
+
 ## Macroeconomics
 
 - [Gross Domestic Product (GDP)](/finance/macroeconomics/gdp--gross-domestic-product.md) 
