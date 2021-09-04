@@ -17,5 +17,6 @@ The COT reports are based on position data supplied by reporting firms (FCMs, cl
 ## References
 
 - [cftc.gov | The Commodity Futures Trading Commission](https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm)
+- [investopedia | COT Reports](https://www.investopedia.com/terms/c/cot.asp)
 - [cotreports.org | COT Reports](https://www.cotreports.org/)
 - [tradingster.com | COT Reports](https://www.tradingster.com)
