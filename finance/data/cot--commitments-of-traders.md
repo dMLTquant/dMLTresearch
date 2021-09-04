@@ -1,8 +1,8 @@
-[//]: # (START - Navigation between Markdown pages inside of GitHub.)
+[//]: # "START - Navigation between Markdown pages inside of GitHub."
 
 ••• **[home](/README.md)** ••• **[docs](/docs/index.md)** ••• **[finance](/finance/index.md)** • [macroeconomics](/finance/index.md#macroeconomics) • [technical analysis](/finance/index.md#technical-analysis) •••
 
-[//]: # (END - Navigation between Markdown pages inside of GitHub.)
+[//]: # "END - Navigation between Markdown pages inside of GitHub."
 
 ---
 
@@ -17,5 +17,5 @@ The COT reports are based on position data supplied by reporting firms (FCMs, cl
 ## References
 
 - [cftc.gov | The Commodity Futures Trading Commission](https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm)
-- [cotreports.org](https://www.cotreports.org/)
-- [tradingster | COT Reports](https://www.tradingster.com)
+- [cotreports.org | COT Reports](https://www.cotreports.org/)
+- [tradingster.com | COT Reports](https://www.tradingster.com)
