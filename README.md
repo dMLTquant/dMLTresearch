@@ -7,9 +7,20 @@
 ---
 
 <p align="center">
-  <b>dMLT RESEARCH</b></br>
-  Research regarding investing services and tools, financial data, quantitative analysis and algorithmic trading.</br>
-  Some references and notes on python, pine script and other programing tools, languages and frameworks.
+  <b>••• dMLTresearch •••</b></br>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dMLTquant/awesome_investing">
+    <img alt="AWESOME" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
+  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/dMLTquant/awesome_investing/total?logo=GitHub&style=flat-square">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dMLTquant/awesome_investing?logo=GitHub&style=flat-square">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dMLTquant/awesome_investing?logo=GitHub&style=flat-square">
+</p>
+
+<p align="center">
+  • investing services and tools • financial data • quantitative analysis • algorithmic trading •</br>
+  • python • pine script • programing tools, languages and frameworks •
 </p>
 
 ---
