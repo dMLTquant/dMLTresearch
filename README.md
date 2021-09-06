@@ -24,7 +24,7 @@
 
 **algorithmic trading** • [Bots.io](https://www.bots.io) • [BreakingEquity](https://www.breakingequity.com) •
 
-**brokers** • [Alpaca](https://alpaca.markets/) • [OandA](https://www.oanda.com/) •
+**brokers** • [Alpaca](https://alpaca.markets/) • [OandA](https://www.oanda.com/) • [WealthSimple](https://www.wealthsimple.com/) • 
 
 **calendar** • [TradingEconomics](https://tradingeconomics.com/calendar) • [BabyPips](https://www.babypips.com/economic-calendar) •
 
@@ -49,3 +49,5 @@
 **tunnel** • [Ngrox](https://ngrok.com) •
 
 **environment** • [CodeSandbox](https://codesandbox.io) •
+
+---
