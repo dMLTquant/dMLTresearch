@@ -27,27 +27,45 @@
 
 **••• QUICK LINKS •••**
 
-• [Bloomberg](https://www.bloomberg.com/)• [TradingEconomics](https://tradingeconomics.com/calendar) • [BabyPips MarketMilk](https://marketmilk.babypips.com) • [TradingView](https://www.tradingview.com/) • [DocoH](https://docoh.com/) •
+• [Bloomberg](https://www.bloomberg.com/)• [TradingEconomics](https://tradingeconomics.com/calendar) • [BabyPips MarketMilk](https://marketmilk.babypips.com) • [TradingView](https://www.tradingview.com/) • [DocoH](https://docoh.com/) • [Investopedia](https://www.investopedia.com/) •
 
 ---
 
 **••• FINANCE •••**
 
-**algorithmic trading** • [Bots.io](https://www.bots.io) • [BreakingEquity](https://www.breakingequity.com) •
+**algorithmic trading** • [QuantConnect](https://www.quantconnect.com) • [QuantRocket](https://www.quantrocket.com) • [Bots.io](https://www.bots.io) • [BreakingEquity](https://www.breakingequity.com) •
 
-**brokers** • [Alpaca](https://alpaca.markets/) • [OandA](https://www.oanda.com/) • [WealthSimple](https://www.wealthsimple.com/) • 
+**brokers** • [Alpaca](https://alpaca.markets/) • [OandA](https://www.oanda.com/) • [WealthSimple](https://www.wealthsimple.com/) • [Interactive Brokers](https://www.interactivebrokers.com/) • [Trading212](https://www.trading212.com/) • [FreeTrade](https://freetrade.io/) • [Interactive Investor](https://www.ii.co.uk/) •
 
-**calendar** • [TradingEconomics](https://tradingeconomics.com/calendar) • [BabyPips](https://www.babypips.com/economic-calendar) •
+**charts** • [TradingView](https://www.tradingview.com/) • [AutoChartist](https://www.autochartist.com/) •
 
-**charts** • [TradingView](https://www.tradingview.com/) •
+**education** • [Investopedia](https://www.investopedia.com/) •
 
-**forex** • [MarketMilk](https://marketmilk.babypips.com) •
+**forex** • [MarketMilk](https://marketmilk.babypips.com) • [BabyPips](https://www.babypips.com/) • 
 
-**news** • [Bloomberg](https://www.bloomberg.com/) •
+**insights** • [DocoH](https://docoh.com/) • [Bloomberg Professional](https://www.bloomberg.com/professional/) • [Money Net](https://www.money.net/) • [Morningstar Professional](https://www.morningstar.com/products) • [Quiver Quant](https://www.quiverquant.com) • [BusinessQuant](https://businessquant.com/) • [FinViz](https://finviz.com) • [Tiingo](https://www.tiingo.com/) • [StockRover](https://www.stockrover.com/) • [Wallmine](https://wallmine.com/) • [Atom Finance](https://atom.finance/) • [Yahoo Finance](https://finance.yahoo.com/) • [Google Finance](https://www.google.com/finance/) • [KoyFin](https://www.koyfin.com/) • [TipRanks](https://www.tipranks.com/) • [Yewmo Edge](https://edge.yewno.com/) • [DarQube](https://darqube.io/) • [Sentieo](https://sentieo.com/) • 
 
-**research** • [DocoH](https://docoh.com/) •
+**open source** • [github.com: agora by HP4k1h5](https://github.com/HP4k1h5/agora/) • [github.com: ghostfolio](https://github.com/ghostfolio/ghostfolio/) •
+
+**risk management** • [Ziggma](https://ziggma.com/) • [Risk-O](http://www.risk-o.com/) •
+
+**trading communities** • [seekingalpha](https://seekingalpha.com/) • [stocktwits](https://stocktwits.com/) • 
 
 **trading journals** • [EdgeWonk](https://edgewonk.com) • [TradesViz](https://www.tradesviz.com) • [TraderVue](https://www.tradervue.com) •
+
+**• DATA •**
+
+**calendar** • [TradingEconomics](https://tradingeconomics.com/calendar) • [BabyPips](https://www.babypips.com/economic-calendar) • [Forex Factory](https://www.forexfactory.com/calendar) • 
+
+**news** • [Bloomberg](https://www.bloomberg.com/) • [Wall Street Journal](https://www.wsj.com/) • [Barrons](https://www.barrons.com/) • [Reuters](https://www.reuters.com/) • [MarketWatch](https://www.marketwatch.com/) • [Benzinga](https://pro.benzinga.com/) • 
+
+**data points** • [Nasdaq](https://www.nasdaq.com/) • [NYSE](https://www.nyse.com/) • [ICE](https://www.ice.com/) • [CME Group](https://www.cmegroup.com/) • [TradingEconomics](https://tradingeconomics.com/) • [Tiingo](https://www.tiingo.com/)
+
+**macroeconomics** • [US Federal Reserve (FED)](https://www.federalreserve.gov/) • [European Central Bank (ECB)](https://www.ecb.europa.eu/) • [Bank of England (BoE)](https://www.bankofengland.co.uk/) • [Bank of Japan (BoJ)](https://www.boj.or.jp/en/index.htm/) • 
+
+**• ALTERNATIVES •**
+
+**cryptocurrencies** • [defiprime](https://defiprime.com/) • [cosmos network](https://cosmos.network/)  •
 
 ---
 
@@ -57,8 +75,8 @@
 
 **docs** • [GitHub Docs](https://docs.github.com/) •
 
-**tunnel** • [Ngrox](https://ngrok.com) •
-
 **environment** • [CodeSandbox](https://codesandbox.io) •
+
+**tunnel** • [Ngrox](https://ngrok.com) •
 
 ---
