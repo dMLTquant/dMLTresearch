@@ -48,4 +48,4 @@
 
 **tunnel** • [ngrox](https://ngrok.com) •
 
-**online IDEs** • [CodeSandbox](https://codesandbox.io) •
+**environment** • [CodeSandbox](https://codesandbox.io) •
