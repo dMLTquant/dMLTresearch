@@ -42,6 +42,8 @@
 
 **••• DEVELOPER •••**
 
+**essentials** • [github](https://github.com/) •
+
 **docs** • [github docs](https://docs.github.com/) •
 
 **localhost** • [ngrox](https://ngrok.com) •
