@@ -42,10 +42,10 @@
 
 **••• DEVELOPER •••**
 
-**essentials** • [github](https://github.com/) •
+**essentials** • [GitHub](https://github.com/) •
 
-**docs** • [github docs](https://docs.github.com/) •
+**docs** • [GitHub Docs](https://docs.github.com/) •
 
-**tunnel** • [ngrox](https://ngrok.com) •
+**tunnel** • [Ngrox](https://ngrok.com) •
 
 **environment** • [CodeSandbox](https://codesandbox.io) •
