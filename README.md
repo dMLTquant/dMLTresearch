@@ -20,7 +20,7 @@
 
 <p align="center">
   • investing services and tools • financial data • quantitative analysis • algorithmic trading •</br>
-  • python • pine script • programing tools, languages and frameworks •
+  • data science • python • pine script • programing tools, languages and frameworks •
 </p>
 
 ---
