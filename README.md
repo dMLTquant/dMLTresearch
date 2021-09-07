@@ -27,7 +27,7 @@
 
 **••• QUICK LINKS •••**
 
-• [Bloomberg](https://www.bloomberg.com/)• [TradingEconomics](https://tradingeconomics.com/calendar) • [BabyPips MarketMilk](https://marketmilk.babypips.com) • [TradingView](https://www.tradingview.com/) • [DocoH](https://docoh.com/) • [Investopedia](https://www.investopedia.com/) •
+• [Bloomberg](https://www.bloomberg.com/)• [TradingEconomics](https://tradingeconomics.com/calendar) • [BabyPips MarketMilk](https://marketmilk.babypips.com) • [TradingView](https://www.tradingview.com/) • [DocoH](https://docoh.com/) • [COTreports](https://www.cotreports.org/) • [Investopedia](https://www.investopedia.com/) •
 
 ---
 
