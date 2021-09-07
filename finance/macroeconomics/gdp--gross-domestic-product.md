@@ -6,6 +6,19 @@
 
 ---
 
+<details><summary>References</summary>
+
+- [WorldBank | Gross domestic product ranking table](https://datacatalog.worldbank.org/dataset/gdp-ranking)
+- [WorldBank | Gross domestic product ranking table based on purchasing power parity (PPP)](https://datacatalog.worldbank.org/dataset/gdp-ranking-ppp-based)
+- [ECB | EU GDP, output and demand](https://www.ecb.europa.eu/stats/macroeconomic_and_sectoral/gdp_output_demand/html/index.en.html)
+- [BEA | US GDP](https://www.bea.gov/data/gdp/gross-domestic-product)
+- [TradingEconomics | Countries by GDP](https://tradingeconomics.com/country-list/gdp)
+- [Investopedia | Countries by GDP: The Top 25 Economies in the World](https://www.investopedia.com/insights/worlds-top-economies/)
+
+</details>
+
+---
+
 # Gross domestic product (GDP)
 
 Gross domestic product (GDP) is the total monetary or market value of all the finished goods and services produced within a country’s borders in a specific time period. As a broad measure of overall domestic production, it functions as a comprehensive scorecard of a given country’s economic health.
@@ -18,7 +31,7 @@ Several popular ways to measure GDP, all of which are drawn from the World Bank 
 - GDP Growth: This is the annual percent growth rate of nominal GDP in local prices and currencies, which estimates how fast a country’s economy is growing.
 - GDP Per Capita, in Current U.S. Dollars: This is nominal GDP divided by the number of people in a country. GDP per capita measures how much a country’s economy produces per person, rather than in total. This can also act as a very rough measure of income or standard of living for individuals living in a country.
 
-## Richest countries in the world by GDP
+<details><summary>Richest countries in the world by GDP in 2021</summary>
 
 1. United States 
 2. China 
@@ -46,7 +59,4 @@ Several popular ways to measure GDP, all of which are drawn from the World Bank 
 24. Belgium 
 25. Nigeria 
 
----
-
-## Reference
-[Investopedia | Countries by GDP: The Top 25 Economies in the World](https://www.investopedia.com/insights/worlds-top-economies/)
+</details>
