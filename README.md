@@ -103,7 +103,7 @@
   
   **environment** • [Anaconda](https://www.anaconda.com/) •
   
-  **package managers** • [Python Package Index](https://pypi.org/) • [pip](https://pypi.org/project/pip/) • [conda](https://docs.conda.io/en/latest/) • [poetry](https://python-poetry.org/) •
+  **package managers** • [Python Package Index](https://pypi.org/) • [pip](https://pypi.org/project/pip/) • [pipenv](https://pypi.org/project/pipenv/) • [conda](https://docs.conda.io/en/latest/) • [poetry](https://python-poetry.org/) •
   
   **language** • [Python Org](https://www.python.org/) •
   
