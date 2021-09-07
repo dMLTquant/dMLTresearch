@@ -6,6 +6,14 @@
 
 ---
 
+<details><summary>References</summary>
+
+- [Investopedia | Autoregressive Integrated Moving Average](https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp)
+
+</details>
+
+---
+
 # Autoregressive Integrated Moving Average (ARIMA)
 
 An autoregressive integrated moving average, or ARIMA, is a statistical analysis model that uses time series data to either better understand the data set or to predict future trends. 
@@ -29,9 +37,3 @@ Each component in ARIMA functions as a parameter with a standard notation. For A
 - `p` : the number of lag observations in the model; also known as the lag order.
 - `d` : the number of times that the raw observations are differenced; also known as the degree of differencing.
 - `q` : the size of the moving average window; also known as the order of the moving average.
-
---- 
-
-## References
-
--[Investopedia | Autoregressive Integrated Moving Average](https://www.investopedia.com/terms/a/autoregressive-integrated-moving-average-arima.asp)
