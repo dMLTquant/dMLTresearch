@@ -41,7 +41,7 @@
   
   **news** • [Bloomberg](https://www.bloomberg.com/) • [Wall Street Journal](https://www.wsj.com/) • [Barrons](https://www.barrons.com/) • [Reuters](https://www.reuters.com/) • [MarketWatch](https://www.marketwatch.com/) • [Benzinga](https://pro.benzinga.com/) • 
   
-  **trading data warehouses** • [Nasdaq](https://www.nasdaq.com/) • [NYSE](https://www.nyse.com/) • [ICE](https://www.ice.com/) • [CME Group](https://www.cmegroup.com/) • [TradingEconomics](https://tradingeconomics.com/) • [Tiingo](https://www.tiingo.com/) •
+  **trading data warehouses** • [Nasdaq](https://www.nasdaq.com/) • [Nasdaq Trading Halts](http://www.nasdaqtrader.com/Trader.aspx?id=TradeHalts) • [NYSE](https://www.nyse.com/) • [NYSE Trading Halts](https://www.nyse.com/trade-halt-current) • [ICE](https://www.ice.com/) • [CME Group](https://www.cmegroup.com/) • [TradingEconomics](https://tradingeconomics.com/) • [Tiingo](https://www.tiingo.com/) •
   
   ---
 
