@@ -57,7 +57,7 @@
   
   **forex** • [MarketMilk](https://marketmilk.babypips.com) • [BabyPips](https://www.babypips.com/) • 
   
-  **insights** • [DocoH](https://docoh.com/) • [Bloomberg Professional](https://www.bloomberg.com/professional/) • [Money Net](https://www.money.net/) • [Morningstar Professional](https://www.morningstar.com/products) • [Quiver Quant](https://www.quiverquant.com) • [BusinessQuant](https://businessquant.com/) • [FinViz](https://finviz.com) • [Tiingo](https://www.tiingo.com/) • [StockRover](https://www.stockrover.com/) • [Wallmine](https://wallmine.com/) • [Atom Finance](https://atom.finance/) • [Yahoo Finance](https://finance.yahoo.com/) • [Google Finance](https://www.google.com/finance/) • [KoyFin](https://www.koyfin.com/) • [TipRanks](https://www.tipranks.com/) • [Yewmo Edge](https://edge.yewno.com/) • [DarQube](https://darqube.io/) • [Sentieo](https://sentieo.com/) • 
+  **insights** • [DocoH](https://docoh.com/) • [Bloomberg Professional](https://www.bloomberg.com/professional/) • [Money Net](https://www.money.net/) • [Morningstar Professional](https://www.morningstar.com/products) • [SimplyWall.st](https://simplywall.st/) • [Quiver Quant](https://www.quiverquant.com) • [BusinessQuant](https://businessquant.com/) • [FinViz](https://finviz.com) • [Tiingo](https://www.tiingo.com/) • [StockRover](https://www.stockrover.com/) • [Wallmine](https://wallmine.com/) • [Atom Finance](https://atom.finance/) • [Yahoo Finance](https://finance.yahoo.com/) • [Google Finance](https://www.google.com/finance/) • [KoyFin](https://www.koyfin.com/) • [TipRanks](https://www.tipranks.com/) • [Yewmo Edge](https://edge.yewno.com/) • [DarQube](https://darqube.io/) • [Sentieo](https://sentieo.com/) • 
 
   ---
 
@@ -69,7 +69,7 @@
   
   **algorithmic trading** • [QuantConnect](https://www.quantconnect.com) • [QuantRocket](https://www.quantrocket.com) • [Bots.io](https://www.bots.io) • [BreakingEquity](https://www.breakingequity.com) •
   
-  **brokers** • [Alpaca](https://alpaca.markets/) • [OandA](https://www.oanda.com/) • [WealthSimple](https://www.wealthsimple.com/) • [Interactive Brokers](https://www.interactivebrokers.com/) • [Trading212](https://www.trading212.com/) • [FreeTrade](https://freetrade.io/) • [Interactive Investor](https://www.ii.co.uk/) •
+  **brokers** • [Alpaca](https://alpaca.markets/) • [OandA](https://www.oanda.com/) • [WealthSimple](https://www.wealthsimple.com/) • [Nutmeg](https://www.nutmeg.com) • [Interactive Brokers](https://www.interactivebrokers.com/) • [Trading212](https://www.trading212.com/) • [FreeTrade](https://freetrade.io/) • [Interactive Investor](https://www.ii.co.uk/) •
   
   **charts** • [TradingView](https://www.tradingview.com/) • [AutoChartist](https://www.autochartist.com/) •
   
