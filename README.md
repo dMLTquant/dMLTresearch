@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dMLTquant/awesome_investing">
+  <a href="https://github.com/dMLTquant/dMLTresearch">
     <img alt="AWESOME" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
-  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/dMLTquant/awesome_investing/total?logo=GitHub&style=flat-square">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dMLTquant/awesome_investing?logo=GitHub&style=flat-square">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dMLTquant/awesome_investing?logo=GitHub&style=flat-square">
+  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/dMLTquant/dMLTresearch/total?logo=GitHub&style=flat-square">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dMLTquant/dMLTresearch?logo=GitHub&style=flat-square">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dMLTquant/dMLTresearch?logo=GitHub&style=flat-square">
 </p>
 
 <p align="center">
