@@ -7,3 +7,5 @@
 ---
 
 # Docs Index
+
+- [Data companies](/docs/data-science/data-companies.md)
