@@ -27,7 +27,7 @@
 
 ### FINANCE
 
-**essentials** • [Bloomberg](https://www.bloomberg.com/)• [TradingEconomics](https://tradingeconomics.com/calendar) • [MarketMilk](https://marketmilk.babypips.com) • [TradingView](https://www.tradingview.com/) • [DocoH](https://docoh.com/) • [COT Reports](https://www.cotreports.org/) • [Investopedia](https://www.investopedia.com/) •
+**essentials** • [Bloomberg](https://www.bloomberg.com/)• [TradingEconomics](https://tradingeconomics.com/calendar) • [MarketMilk](https://marketmilk.babypips.com) • [TradingView](https://www.tradingview.com/) • [DocoH](https://docoh.com/) • [COT Reports](https://www.cotreports.org/) • [Investopedia](https://www.investopedia.com/) • [Quantocracy](https://quantocracy.com) •
 
 <details><summary><b>data</b> • macroeconomics statistics • central banks • data warehouses •</summary>
   
@@ -53,7 +53,7 @@
   
   **communities** • [seekingalpha](https://seekingalpha.com/) • [stocktwits](https://stocktwits.com/) •
   
-  **education** • [Investopedia](https://www.investopedia.com/) •
+  **education** • [Investopedia](https://www.investopedia.com/) • [Quantocracy](https://quantocracy.com) •
   
   **forex** • [MarketMilk](https://marketmilk.babypips.com) • [BabyPips](https://www.babypips.com/) • 
   
