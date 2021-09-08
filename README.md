@@ -75,6 +75,8 @@
   
   **open source** • [github.com: agora](https://github.com/HP4k1h5/agora/) • [github.com: ghostfolio](https://github.com/ghostfolio/ghostfolio/) •
   
+  **portfolio analysis** • [Portfolio Performance](https://www.portfolio-performance.info/en/) •
+  
   **risk management** • [Ziggma](https://ziggma.com/) • [Risk-O](http://www.risk-o.com/) •
   
   **trading journals** • [EdgeWonk](https://edgewonk.com) • [TradesViz](https://www.tradesviz.com) • [TraderVue](https://www.tradervue.com) •
