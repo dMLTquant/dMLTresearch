@@ -71,7 +71,7 @@
   
   **brokers** • [Alpaca](https://alpaca.markets/) • [OandA](https://www.oanda.com/) • [WealthSimple](https://www.wealthsimple.com/) • [Nutmeg](https://www.nutmeg.com) • [Interactive Brokers](https://www.interactivebrokers.com/) • [Trading212](https://www.trading212.com/) • [FreeTrade](https://freetrade.io/) • [Interactive Investor](https://www.ii.co.uk/) •
   
-  **charts** • [TradingView](https://www.tradingview.com/) • [AutoChartist](https://www.autochartist.com/) •
+  **charts** • [TradingView](https://www.tradingview.com/) • [AutoChartist](https://www.autochartist.com/) • [yCharts](https://ycharts.com) •
   
   **open source** • [github.com: agora](https://github.com/HP4k1h5/agora/) • [github.com: ghostfolio](https://github.com/ghostfolio/ghostfolio/) •
   
