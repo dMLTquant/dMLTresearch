@@ -35,7 +35,7 @@
   
   **calendar** • [TradingEconomics](https://tradingeconomics.com/calendar) • [BabyPips](https://www.babypips.com/economic-calendar) • [Forex Factory](https://www.forexfactory.com/calendar) • 
 
-  **central banks** • [World Bank](https://www.worldbank.org/en/home) • [US Federal Reserve (FED)](https://www.federalreserve.gov/) • [European Central Bank (ECB)](https://www.ecb.europa.eu/) • [Bank of England (BoE)](https://www.bankofengland.co.uk/) • [Bank of Japan (BoJ)](https://www.boj.or.jp/en/index.htm/) •
+  **central banks** • [World Bank](https://www.worldbank.org/) • [Bank for International Settlements (BIS)](https://www.bis.org) • [International Monetary Fund (IMF)](https://www.imf.org/)• [US Federal Reserve (FED)](https://www.federalreserve.gov/) • [European Central Bank (ECB)](https://www.ecb.europa.eu/) • [Bank of England (BoE)](https://www.bankofengland.co.uk/) • [Bank of Japan (BoJ)](https://www.boj.or.jp/en/index.htm/) •
   
   **macroeconomics data warehouses** • [ECB Statistical Data Warehouse](https://sdw.ecb.europa.eu/) • [EuroStat](https://ec.europa.eu/eurostat/) • [European National Statistical Institutes](https://ec.europa.eu/eurostat/web/links) • [UK Statistical System](https://www.statisticsauthority.gov.uk/) • [US Bureau of Economic Analysis](https://www.bea.gov/) • [IHS Markit](https://ihsmarkit.com/index.html) •
   
