@@ -19,6 +19,10 @@
 ## Technical analysis
 
 ### Basic concepts
+
+### Forex concepts
+
+- [Forex](/finance/forex/forex-concepts.md)
   
 ### Advanced concepts
 
