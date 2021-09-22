@@ -113,6 +113,16 @@
 
 </details>
 
+<details><summary><b>pinescript</b> • environment • packages • frameworks •</summary>
+  
+  ---
+  
+  **language** • [Tradingview PineScript V4 Docs](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html) • [PineCoders](https://www.pinecoders.com/) •
+  
+  ---
+
+</details>
+
 <details><summary><b>tools</b> • environment •</summary>
   
   ---
