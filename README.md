@@ -103,7 +103,7 @@
   
   ---
   
-  **environment** • [Anaconda](https://www.anaconda.com/) •
+  **environment** • [Anaconda](https://www.anaconda.com/) • [repl.it](https://replit.com/) • [PythonAnywhere](https://www.pythonanywhere.com/) •
   
   **package managers** • [Python Package Index](https://pypi.org/) • [pip](https://pypi.org/project/pip/) • [pipenv](https://pypi.org/project/pipenv/) • [conda](https://docs.conda.io/en/latest/) • [poetry](https://python-poetry.org/) •
   
