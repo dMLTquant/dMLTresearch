@@ -127,6 +127,8 @@
   
   ---
   
+  **vs code** • [Visual Studio Code](https://code.visualstudio.com) • [Getting started](https://code.visualstudio.com/docs/introvideos/basics) • [Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) •
+  
   **environment** • [CodeSandbox](https://codesandbox.io) •
   
   **tunnel** • [Ngrox](https://ngrok.com) •
