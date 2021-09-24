@@ -1,6 +1,6 @@
 [//]: # "START - Navigation between Markdown pages inside of GitHub."
 
-••• **[home](/README.md)** ••• **[docs](/docs/index.md)** ••• **[finance](/finance/index.md)** • [macroeconomics](/finance/index.md#macroeconomics) • [technical analysis](/finance/index.md#technical-analysis) •••
+••• **[home](/README.md)** ••• **[docs](/docs/index.md)** • [macroeconomics](/docs/index.md#macroeconomics) • [technical analysis](/docs/index.md#technical-analysis) •••
 
 [//]: # "END - Navigation between Markdown pages inside of GitHub."
 

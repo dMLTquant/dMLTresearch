@@ -1,6 +1,6 @@
 [//]: # "START - Navigation between Markdown pages inside of GitHub."
 
-••• **[home](/README.md)** ••• **[docs](/docs/index.md)** ••• **[finance](/finance/index.md)** • [macroeconomics](/finance/index.md#macroeconomics) • [technical analysis](/finance/index.md#technical-analysis) •••
+••• **[home](/README.md)** ••• **[docs](/docs/index.md)** • [macroeconomics](/docs/index.md#macroeconomics) • [technical analysis](/docs/index.md#technical-analysis) •••
 
 [//]: # "END - Navigation between Markdown pages inside of GitHub."
 
@@ -33,17 +33,17 @@
   
   ---
   
-  **calendar** • [TradingEconomics](https://tradingeconomics.com/calendar) • [BabyPips](https://www.babypips.com/economic-calendar) • [Forex Factory](https://www.forexfactory.com/calendar) • 
+  **calendar** • [TradingEconomics](https://tradingeconomics.com/calendar) • [BabyPips](https://www.babypips.com/economic-calendar) • [Forex Factory](https://www.forexfactory.com/calendar) •
 
-  **central banks** • [World Bank](https://www.worldbank.org/) • [ World Bank Datacatalog](https://datacatalog.worldbank.org/) • [Bank for International Settlements (BIS)](https://www.bis.org) • [International Monetary Fund (IMF)](https://www.imf.org/)• [US Federal Reserve (FED)](https://www.federalreserve.gov/) • [US Securities and Exchange Commision (SEC)](https://www.sec.gov/) • [US SEC EDGAR Search](https://www.sec.gov/edgar/search-and-access) • [European Central Bank (ECB)](https://www.ecb.europa.eu/) • [ECB Statistical Data Warehouse (SDW) ](https://sdw.ecb.europa.eu/home.do) • [ECB SDW Search](https://sdw.ecb.europa.eu/intelligentsearch/) • [Bank of England (BoE)](https://www.bankofengland.co.uk/) • [Bank of Japan (BoJ)](https://www.boj.or.jp/en/index.htm/) •
-  
-  **macroeconomics data warehouses** • [TradingEconomics](https://tradingeconomics.com/) • [ECB Statistical Data Warehouse](https://sdw.ecb.europa.eu/) • [EuroStat](https://ec.europa.eu/eurostat/) • [European National Statistical Institutes](https://ec.europa.eu/eurostat/web/links) • [UK Statistical System](https://www.statisticsauthority.gov.uk/) • [US Bureau of Economic Analysis](https://www.bea.gov/) • [IHS Markit](https://ihsmarkit.com/index.html) •
-  
-  **news** • [Bloomberg](https://www.bloomberg.com/) • [Wall Street Journal](https://www.wsj.com/) • [Barrons](https://www.barrons.com/) • [Reuters](https://www.reuters.com/) • [MarketWatch](https://www.marketwatch.com/) • [Tiingo](https://www.tiingo.com/) • [Benzinga](https://pro.benzinga.com/) • 
-  
-  **trading data warehouses** • [Nasdaq](https://www.nasdaq.com/) • [Nasdaq Data Link (Quandl)](https://data.nasdaq.com/) • [Nasdaq Trading Halts](http://www.nasdaqtrader.com/Trader.aspx?id=TradeHalts) • [NYSE](https://www.nyse.com/) • [NYSE Trading Halts](https://www.nyse.com/trade-halt-current) • [ICE](https://www.ice.com/) • [CME Group](https://www.cmegroup.com/) • [MacroTrends](http://www.macrotrends.net/) •
-  
-  ---
+**central banks** • [World Bank](https://www.worldbank.org/) • [ World Bank Datacatalog](https://datacatalog.worldbank.org/) • [Bank for International Settlements (BIS)](https://www.bis.org) • [International Monetary Fund (IMF)](https://www.imf.org/)• [US Federal Reserve (FED)](https://www.federalreserve.gov/) • [US Securities and Exchange Commision (SEC)](https://www.sec.gov/) • [US SEC EDGAR Search](https://www.sec.gov/edgar/search-and-access) • [European Central Bank (ECB)](https://www.ecb.europa.eu/) • [ECB Statistical Data Warehouse (SDW) ](https://sdw.ecb.europa.eu/home.do) • [ECB SDW Search](https://sdw.ecb.europa.eu/intelligentsearch/) • [Bank of England (BoE)](https://www.bankofengland.co.uk/) • [Bank of Japan (BoJ)](https://www.boj.or.jp/en/index.htm/) •
+
+**macroeconomics data warehouses** • [TradingEconomics](https://tradingeconomics.com/) • [ECB Statistical Data Warehouse](https://sdw.ecb.europa.eu/) • [EuroStat](https://ec.europa.eu/eurostat/) • [European National Statistical Institutes](https://ec.europa.eu/eurostat/web/links) • [UK Statistical System](https://www.statisticsauthority.gov.uk/) • [US Bureau of Economic Analysis](https://www.bea.gov/) • [IHS Markit](https://ihsmarkit.com/index.html) •
+
+**news** • [Bloomberg](https://www.bloomberg.com/) • [Wall Street Journal](https://www.wsj.com/) • [Barrons](https://www.barrons.com/) • [Reuters](https://www.reuters.com/) • [MarketWatch](https://www.marketwatch.com/) • [Tiingo](https://www.tiingo.com/) • [Benzinga](https://pro.benzinga.com/) •
+
+**trading data warehouses** • [Nasdaq](https://www.nasdaq.com/) • [Nasdaq Data Link (Quandl)](https://data.nasdaq.com/) • [Nasdaq Trading Halts](http://www.nasdaqtrader.com/Trader.aspx?id=TradeHalts) • [NYSE](https://www.nyse.com/) • [NYSE Trading Halts](https://www.nyse.com/trade-halt-current) • [ICE](https://www.ice.com/) • [CME Group](https://www.cmegroup.com/) • [MacroTrends](http://www.macrotrends.net/) •
+
+---
 
 </details>
 
@@ -57,9 +57,9 @@
   
   **forex** • [MarketMilk](https://marketmilk.babypips.com) • [BabyPips](https://www.babypips.com/) • 
   
-  **insights** • [DocoH](https://docoh.com/) • [Bloomberg Professional](https://www.bloomberg.com/professional/) • [Money Net](https://www.money.net/) • [Morningstar Professional](https://www.morningstar.com/products) • [SimplyWall.st](https://simplywall.st/) • [Quiver Quant](https://www.quiverquant.com) • [BusinessQuant](https://businessquant.com/) • [FinViz](https://finviz.com) • [Tiingo](https://www.tiingo.com/) • [StockRover](https://www.stockrover.com/) • [Wallmine](https://wallmine.com/) • [Atom Finance](https://atom.finance/) • [Yahoo Finance](https://finance.yahoo.com/) • [Google Finance](https://www.google.com/finance/) • [KoyFin](https://www.koyfin.com/) • [TipRanks](https://www.tipranks.com/) • [Yewmo Edge](https://edge.yewno.com/) • [DarQube](https://darqube.io/) • [Sentieo](https://sentieo.com/) • [TIKR Terminal](https://tikr.com) • [EZ Stock Screener](https://www.ezstockscreener.com) • [Insider Finance](https://insiderfinance.io/) •
+  **insights** • [DocoH](https://docoh.com/) • [Bloomberg Professional](https://www.bloomberg.com/professional/) • [Money Net](https://www.money.net/) • [Morningstar Professional](https://www.morningstar.com/products) • [SimplyWall.st](https://simplywall.st/) • [Quiver Quant](https://www.quiverquant.com) • [BusinessQuant](https://businessquant.com/) • [FinViz](https://finviz.com) • [Tiingo](https://www.tiingo.com/) • [StockRover](https://www.stockrover.com/) • [Wallmine](https://wallmine.com/) • [Atom Finance](https://atom.finance/) • [Yahoo Finance](https://finance.yahoo.com/) • [Google Finance](https://www.google.com/docs/) • [KoyFin](https://www.koyfin.com/) • [TipRanks](https://www.tipranks.com/) • [Yewmo Edge](https://edge.yewno.com/) • [DarQube](https://darqube.io/) • [Sentieo](https://sentieo.com/) • [TIKR Terminal](https://tikr.com) • [EZ Stock Screener](https://www.ezstockscreener.com) • [Insider Finance](https://insiderfinance.io/) •
 
-  ---
+---
 
 </details>
 
