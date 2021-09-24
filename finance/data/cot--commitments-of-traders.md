@@ -6,18 +6,20 @@
 
 ---
 
+# Commitment of Traders (COT) report
+
 <details><summary>References</summary>
+
+---
 
 - [CFTC | The Commodity Futures Trading Commission](https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm)
 - [investopedia | COT Reports](https://www.investopedia.com/terms/c/cot.asp)
 - [cotreports.org | COT Reports](https://www.cotreports.org/)
 - [tradingster.com | COT Reports](https://www.tradingster.com)
 
-</details>
-
 ---
 
-# Commitment of Traders (COT) report
+</details>
 
 The Commodity Futures Trading Commission (Commission or CFTC) publishes the Commitments of Traders (COT) reports to help the public understand market dynamics. Specifically, the COT reports provide a breakdown of each Tuesday’s open interest for futures and options on futures markets in which 20 or more traders hold positions equal to or above the reporting levels established by the CFTC.
 
