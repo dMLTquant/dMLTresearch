@@ -23,5 +23,6 @@ Big data refers to the large, diverse sets of information that grow at ever-incr
 | company                                  | mission statement                                                                                            |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | [C3.AI](https://c3.ai)                   | Solving the previously unsolvable                                                                            |
+| [DataBricks](https://databricks.com/) | Unify your data, analytics, and AIon one common platform for all data use cases |
 | [GoDataDriven](https://godatadriven.com) | Driving Your Success With Data and AI                                                                        |
 | [Palantir](https://www.palantir.com)     | We build software that empowers organizations to effectively integrate their data, decisions, and operations |
