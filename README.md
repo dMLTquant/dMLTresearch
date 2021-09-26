@@ -109,6 +109,8 @@
   
   **language** • [Python Org](https://www.python.org/) •
   
+  **data visualization packages** • [bqplot](https://pypi.org/project/bqplot/) •
+  
   ---
 
 </details>
