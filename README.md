@@ -71,7 +71,7 @@
   
   **brokers** • [Alpaca](https://alpaca.markets/) • [OandA](https://www.oanda.com/) • [Darwinex](https://www.darwinex.com) • [WealthSimple](https://www.wealthsimple.com/) • [Nutmeg](https://www.nutmeg.com) • [Interactive Brokers](https://www.interactivebrokers.com/) • [Trading212](https://www.trading212.com/) • [FreeTrade](https://freetrade.io/) • [Interactive Investor](https://www.ii.co.uk/) •
   
-  **charts** • [TradingView](https://www.tradingview.com/) ([Spark](https://www.tradingview.com/sparks/), [Formula Charts](https://www.tradingview.com/chart/AAPL/ZtMqr022-Create-Your-Own-Formula-and-Chart-It/), [Heatmaps](https://www.tradingview.com/heatmap/stock/?color=change&dataset=SPX500&group=sector&size=market_cap_basic)) • [TrendSpider](https://trendspider.com) • [AutoChartist](https://www.autochartist.com/) • [yCharts](https://ycharts.com) •
+  **charts** • [TradingView](https://www.tradingview.com/) *Docs*: [PineScript V4](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html) *Features*: [Spark](https://www.tradingview.com/sparks/), [Formula Charts](https://www.tradingview.com/chart/AAPL/ZtMqr022-Create-Your-Own-Formula-and-Chart-It/), [Heatmaps](https://www.tradingview.com/heatmap/stock/?color=change&dataset=SPX500&group=sector&size=market_cap_basic) *Education*: [Kodify](https://kodify.net/tradingview-programming-articles/), [TradingCode](https://www.tradingcode.net/tradingview-pine-script-course/) • [TrendSpider](https://trendspider.com) • [AutoChartist](https://www.autochartist.com/) • [yCharts](https://ycharts.com) •
   
   **open source** • [github.com: agora](https://github.com/HP4k1h5/agora/) • [github.com: ghostfolio](https://github.com/ghostfolio/ghostfolio/) •
   
