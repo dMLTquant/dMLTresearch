@@ -8,7 +8,7 @@
 
 # Commitment of Traders (COT) report
 
-<details><summary>References</summary>
+<details><summary>resources</summary>
 
 ---
 

@@ -8,7 +8,7 @@
 
 # Forex & Currencies Trading
 
-<details><summary>References</summary>
+<details><summary>resources</summary>
 
 ---
 

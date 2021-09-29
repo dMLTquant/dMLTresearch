@@ -13,6 +13,7 @@
 ### Data science
 
 - [Data companies](/docs/data-science/data-companies.md)
+- [Python](/docs/data-science/python.md)
 
 ### Trading data
 

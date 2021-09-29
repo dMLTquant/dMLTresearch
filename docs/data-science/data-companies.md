@@ -8,7 +8,7 @@
 
 # Data, ML and AI Companies
 
-<details><summary>References</summary>
+<details><summary>resources</summary>
 
 ---
 
