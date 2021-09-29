@@ -102,7 +102,7 @@
 </details>
 
 
-<p align="center"><b>• DEVELOPER •</b></br></p>
+<p align="center"><b>• QUANT •</b></br></p>
 
 <details open><summary><b>essentials</b></summary>
   
