@@ -108,7 +108,7 @@
   
 ---
 
-• [GitHub](https://github.com/) • [GitHub Docs](https://docs.github.com/) •
+• [GitHub](https://github.com/) • [GitHub Docs](https://docs.github.com/) • [Awesome READMEs](https://awesomegithubprofile.tech) •
 
 ---
 
