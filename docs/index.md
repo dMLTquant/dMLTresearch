@@ -6,7 +6,7 @@
 
 ---
 
-# Docs Index
+# Index
 
 ## Data
 
