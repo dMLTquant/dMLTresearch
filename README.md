@@ -39,7 +39,7 @@
   
 ---
 
-• [Bloomberg](https://www.bloomberg.com/) • [TradingEconomics Calendar](https://tradingeconomics.com/calendar) • [MacroTrends](http://www.macrotrends.net/) • [MarketMilk](https://marketmilk.babypips.com) • [TradingView](https://www.tradingview.com/) • [DocoH](https://docoh.com/) • [COT Reports](https://www.cotreports.org/) • [Investopedia](https://www.investopedia.com/) • [Quantocracy](https://quantocracy.com) •
+• [Bloomberg](https://www.bloomberg.com/) • [TradingEconomics Calendar](https://tradingeconomics.com/calendar) • [MacroTrends](http://www.macrotrends.net/) • [MarketMilk](https://marketmilk.babypips.com) • [TradingView](https://www.tradingview.com/) • [DocoH](https://docoh.com/) • [Tradingster COT Reports](https://www.tradingster.com) • [Investopedia](https://www.investopedia.com/) • [Quantocracy](https://quantocracy.com) •
 
 ---
 
