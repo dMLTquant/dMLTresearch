@@ -6,7 +6,22 @@
 
 ---
 
-<p align="center"><b>••• dMLTresearch •••</b></br></p>
+<p align="center" style="width: 100%; height: 300px; overflow: hidden">
+  <img src="/src/static/img/markus-spiske-5gGcn2PRrtc-unsplash.jpg" width="100%" height="300">
+  <span>Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+</p>
+
+---
+
+<p align="center">
+<b>••• dMLTresearch •••</b></br>
+<b>• AWESOME INVESTING •</b></br>
+</p>
+
+<p align="center">
+  • investing services and tools • financial data • quantitative analysis • algorithmic trading •</br>
+  • data science • python • pine script • programing tools • languages and frameworks •
+</p>
 
 <p align="center">
   <a href="https://github.com/dMLTquant/dMLTresearch">
@@ -14,11 +29,6 @@
   <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/dMLTquant/dMLTresearch/total?logo=GitHub&style=flat-square">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dMLTquant/dMLTresearch?logo=GitHub&style=flat-square">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dMLTquant/dMLTresearch?logo=GitHub&style=flat-square">
-</p>
-
-<p align="center">
-  • investing services and tools • financial data • quantitative analysis • algorithmic trading •</br>
-  • data science • python • pine script • programing tools • languages and frameworks •
 </p>
 
 ---
