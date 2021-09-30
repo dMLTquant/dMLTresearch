@@ -39,63 +39,7 @@
   
 ---
 
-• [Bloomberg](https://www.bloomberg.com/) • [TradingEconomics](https://tradingeconomics.com/calendar) • [MacroTrends](http://www.macrotrends.net/) • [MarketMilk](https://marketmilk.babypips.com) • [TradingView](https://www.tradingview.com/) • [DocoH](https://docoh.com/) • [COT Reports](https://www.cotreports.org/) • [Investopedia](https://www.investopedia.com/) • [Quantocracy](https://quantocracy.com) •
-
----
-
-</details>
-
-<details><summary><b>data</b> • central banks • data warehouses • macroeconomics statistics • </summary>
-  
----
-
-**calendar** • [TradingEconomics](https://tradingeconomics.com/calendar) • [BabyPips](https://www.babypips.com/economic-calendar) • [Forex Factory](https://www.forexfactory.com/calendar) •
-
-**central banks** • [World Bank](https://www.worldbank.org/) [[ [ World Bank Datacatalog](https://datacatalog.worldbank.org/) ]] • [Bank for International Settlements (BIS)](https://www.bis.org) • [International Monetary Fund (IMF)](https://www.imf.org/) • [US Federal Reserve (FED)](https://www.federalreserve.gov/) • [US Securities and Exchange Commision (SEC)](https://www.sec.gov/) [[ [US SEC EDGAR Search](https://www.sec.gov/edgar/search-and-access) ]] • [European Central Bank (ECB)](https://www.ecb.europa.eu/) [[ [ECB Statistical Data Warehouse (SDW) ](https://sdw.ecb.europa.eu/) • [ECB SDW Search](https://sdw.ecb.europa.eu/intelligentsearch/) ]] • [Bank of England (BoE)](https://www.bankofengland.co.uk/) • [Bank of Japan (BoJ)](https://www.boj.or.jp/en/index.htm/) •
-
-**macroeconomics** • [TradingEconomics](https://tradingeconomics.com/) • [EuroStat](https://ec.europa.eu/eurostat/) • [European National Statistical Institutes](https://ec.europa.eu/eurostat/web/links) • [UK Statistical System](https://www.statisticsauthority.gov.uk/) • [US Bureau of Economic Analysis](https://www.bea.gov/) • [IHS Markit](https://ihsmarkit.com/index.html) •
-
-**news** • [Bloomberg](https://www.bloomberg.com/) • [Wall Street Journal](https://www.wsj.com/) • [Barrons](https://www.barrons.com/) • [Reuters](https://www.reuters.com/) • [MarketWatch](https://www.marketwatch.com/) • [Tiingo](https://www.tiingo.com/) • [Benzinga](https://pro.benzinga.com/) •
-
-**trading** • [Nasdaq](https://www.nasdaq.com/) [[ *features* • [Data Link (Quandl)](https://data.nasdaq.com/) • [Trading Halts](http://www.nasdaqtrader.com/Trader.aspx?id=TradeHalts) ]] • [NYSE](https://www.nyse.com/) [[ *features* • [Trading Halts](https://www.nyse.com/trade-halt-current) ]] • [ICE](https://www.ice.com/) • [CME Group](https://www.cmegroup.com/) • [MacroTrends](http://www.macrotrends.net/) •
-
----
-
-</details>
-
-<details><summary><b>insights</b> • communities • education • </summary>
-  
----
-
-**communities** • [seekingalpha](https://seekingalpha.com/) • [stocktwits](https://stocktwits.com/) •
-
-**education** • [Investopedia](https://www.investopedia.com/) • [Quantocracy](https://quantocracy.com) •
-
-**forex** • [MarketMilk](https://marketmilk.babypips.com) • [BabyPips](https://www.babypips.com/) • 
-
-**insights** • [DocoH](https://docoh.com/) • [Bloomberg Professional](https://www.bloomberg.com/professional/) • [Money Net](https://www.money.net/) • [Morningstar Professional](https://www.morningstar.com/products) • [SimplyWall.st](https://simplywall.st/) • [Quiver Quant](https://www.quiverquant.com) • [BusinessQuant](https://businessquant.com/) • [FinViz](https://finviz.com) • [Tiingo](https://www.tiingo.com/) • [StockRover](https://www.stockrover.com/) • [Wallmine](https://wallmine.com/) • [Atom Finance](https://atom.finance/) • [Yahoo Finance](https://finance.yahoo.com/) • [Google Finance](https://www.google.com/docs/) • [KoyFin](https://www.koyfin.com/) • [TipRanks](https://www.tipranks.com/) • [Yewmo Edge](https://edge.yewno.com/) • [DarQube](https://darqube.io/) • [Sentieo](https://sentieo.com/) • [TIKR Terminal](https://tikr.com) • [EZ Stock Screener](https://www.ezstockscreener.com) • [Insider Finance](https://insiderfinance.io/) •
-
----
-
-</details>
-
-<details><summary><b>tools</b> • algorithmic trading • brokers • charts • quant • open source • trading journals • risk management •</summary>
-  
----
-
-**algorithmic trading** • [QuantConnect](https://www.quantconnect.com) [[ *features* • [LEAN Trading Engine](https://www.lean.io) • [LEAN CLI](https://www.lean.io/cli/) ]] • [QuantRocket](https://www.quantrocket.com) • [Alpaca](https://alpaca.markets) • [Darwinex](https://www.darwinex.com) • [Blueshift](https://blueshift.quantinsti.com) • [MetaTrader 5](https://www.metatrader5.com) [[ *docs* [MetaQuotes (MQL5)](https://www.metatrader5.com/en/automated-trading/mql5) ]] • [Bots.io](https://www.bots.io) • [BreakingEquity](https://www.breakingequity.com) •
-
-**brokers** • [Alpaca](https://alpaca.markets/) • [OandA](https://www.oanda.com/) • [Darwinex](https://www.darwinex.com) • [WealthSimple](https://www.wealthsimple.com/) • [Nutmeg](https://www.nutmeg.com) • [Interactive Brokers](https://www.interactivebrokers.com/) • [Trading212](https://www.trading212.com/) • [FreeTrade](https://freetrade.io/) • [Interactive Investor](https://www.ii.co.uk/) •
-  
-**charts** • [TradingView](https://www.tradingview.com/) [[ *docs* • [PineScript V4](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html) • *features* • [Spark](https://www.tradingview.com/sparks/) • [Formula Charts](https://www.tradingview.com/chart/AAPL/ZtMqr022-Create-Your-Own-Formula-and-Chart-It/) • [Heatmaps](https://www.tradingview.com/heatmap/stock/?color=change&dataset=SPX500&group=sector&size=market_cap_basic) • *education* • [Kodify](https://kodify.net/tradingview-programming-articles/) • [TradingCode](https://www.tradingcode.net/tradingview-pine-script-course/) ]] • [TrendSpider](https://trendspider.com) • [AutoChartist](https://www.autochartist.com/) • [yCharts](https://ycharts.com) •
-
-**open source** • [agora](https://github.com/HP4k1h5/agora/) • [ghostfolio](https://github.com/ghostfolio/ghostfolio/) •
-
-**portfolio analysis** • [Portfolio Performance](https://www.portfolio-performance.info/en/) •
-  
-**risk management** • [Ziggma](https://ziggma.com/) • [Risk-O](http://www.risk-o.com/) •
-
-**trading journals** • [EdgeWonk](https://edgewonk.com) • [TradesViz](https://www.tradesviz.com) • [TraderVue](https://www.tradervue.com) •
+• [Bloomberg](https://www.bloomberg.com/) • [TradingEconomics Calendar](https://tradingeconomics.com/calendar) • [MacroTrends](http://www.macrotrends.net/) • [MarketMilk](https://marketmilk.babypips.com) • [TradingView](https://www.tradingview.com/) • [DocoH](https://docoh.com/) • [COT Reports](https://www.cotreports.org/) • [Investopedia](https://www.investopedia.com/) • [Quantocracy](https://quantocracy.com) •
 
 ---
 
@@ -111,6 +55,73 @@
 
 </details>
 
+<details><summary><b>data warehouses</b></summary>
+
+---
+
+**macroeconomics** • [TradingEconomics](https://tradingeconomics.com/) • [IHS Markit](https://ihsmarkit.com/) •
+
+**macroeconomics** • **central banks** • [US Federal Reserve (FED)](https://www.federalreserve.gov/) • [US Securities and Exchange Commision (SEC)](https://www.sec.gov/) [[ [US SEC EDGAR Search](https://www.sec.gov/edgar/search-and-access) ]] • [European Central Bank (ECB)](https://www.ecb.europa.eu/) [[ [ECB Statistical Data Warehouse (SDW) ](https://sdw.ecb.europa.eu/) • [ECB SDW Search](https://sdw.ecb.europa.eu/intelligentsearch/) ]] • [Bank of England (BoE)](https://www.bankofengland.co.uk/) • [Bank of Japan (BoJ)](https://www.boj.or.jp/en/index.htm/) • 
+
+**macroeconomics** • **world banks** • [World Bank](https://www.worldbank.org/) [[ [ World Bank Datacatalog](https://datacatalog.worldbank.org/) ]] • [Bank for International Settlements (BIS)](https://www.bis.org) • [International Monetary Fund (IMF)](https://www.imf.org/) • 
+
+**statistics** • **europe** • [EuroStat](https://ec.europa.eu/eurostat/) • [European National Statistical Institutes](https://ec.europa.eu/eurostat/web/links) • 
+
+**statistics** • **uk** • [UK Statistical System](https://www.statisticsauthority.gov.uk/) • [London DataStore](https://data.london.gov.uk) • 
+
+**statistics** • **us** • [US Bureau of Economic Analysis](https://www.bea.gov/) 
+
+**trading data** • [Nasdaq](https://www.nasdaq.com/) [[ *features* • [Data Link (Quandl)](https://data.nasdaq.com/) • [Trading Halts](http://www.nasdaqtrader.com/Trader.aspx?id=TradeHalts) ]] • [NYSE](https://www.nyse.com/) [[ *features* • [Trading Halts](https://www.nyse.com/trade-halt-current) ]] • [ICE](https://www.ice.com/) • [CME Group](https://www.cmegroup.com/) • [MacroTrends](http://www.macrotrends.net/) • [Yahoo Finance](https://finance.yahoo.com/) • [Google Finance](https://www.google.com/docs/) •
+
+**trading data** • **dashboards** • [Bloomberg Professional](https://www.bloomberg.com/professional/) • [Money Net](https://www.money.net/) • [Tiingo](https://www.tiingo.com/) • [KoyFin](https://www.koyfin.com/) • [DarQube](https://darqube.io/) •
+
+**trading data** • **research** • [DocoH](https://docoh.com/) • [Morningstar Professional](https://www.morningstar.com/products) • [SimplyWall.st](https://simplywall.st/) • [Wallmine](https://wallmine.com/) • [FinViz](https://finviz.com) • [StockRover](https://www.stockrover.com/) • [Atom Finance](https://atom.finance/) • [TipRanks](https://www.tipranks.com/) • [Yewmo Edge](https://edge.yewno.com/) • [Sentieo](https://sentieo.com/) • [TIKR Terminal](https://tikr.com) • [EZ Stock Screener](https://www.ezstockscreener.com) • [Insider Finance](https://insiderfinance.io/) • [Quiver Quant](https://www.quiverquant.com) • [BusinessQuant](https://businessquant.com/) •
+
+---
+
+</details>
+
+<details><summary><b>insights</b></summary>
+
+---
+
+**calendar** • [TradingEconomics](https://tradingeconomics.com/calendar) • [BabyPips](https://www.babypips.com/economic-calendar) • [Forex Factory](https://www.forexfactory.com/calendar) •
+
+**communities** • [seekingalpha](https://seekingalpha.com/) • [stocktwits](https://stocktwits.com/) •
+
+**education** • [Investopedia](https://www.investopedia.com/) • [Quantocracy](https://quantocracy.com) •
+
+**forex** • [MarketMilk](https://marketmilk.babypips.com) • [BabyPips](https://www.babypips.com/) • 
+
+**news** • [Bloomberg](https://www.bloomberg.com/) • [Wall Street Journal](https://www.wsj.com/) • [Barrons](https://www.barrons.com/) • [Reuters](https://www.reuters.com/) • [MarketWatch](https://www.marketwatch.com/) • [Tiingo](https://www.tiingo.com/) • [Benzinga](https://pro.benzinga.com/) •
+
+---
+
+</details>
+
+<details><summary><b>tools</b></summary>
+
+---
+
+**brokers** • [Alpaca](https://alpaca.markets/) • [OandA](https://www.oanda.com/) • [Darwinex](https://www.darwinex.com) • [WealthSimple](https://www.wealthsimple.com/) • [Nutmeg](https://www.nutmeg.com) • [Interactive Brokers](https://www.interactivebrokers.com/) • [Trading212](https://www.trading212.com/) • [FreeTrade](https://freetrade.io/) • [Interactive Investor](https://www.ii.co.uk/) •
+
+**charts** • [TrendSpider](https://trendspider.com) • [AutoChartist](https://www.autochartist.com/) • [yCharts](https://ycharts.com) •
+
+**charts** • **TradingView** • [TradingView](https://www.tradingview.com/) [[ *docs* • [PineScript V4](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html) • *features* • [Spark](https://www.tradingview.com/sparks/) • [Formula Charts](https://www.tradingview.com/chart/AAPL/ZtMqr022-Create-Your-Own-Formula-and-Chart-It/) • [Heatmaps](https://www.tradingview.com/heatmap/stock/?color=change&dataset=SPX500&group=sector&size=market_cap_basic) • *education* • [Kodify](https://kodify.net/tradingview-programming-articles/) • [TradingCode](https://www.tradingcode.net/tradingview-pine-script-course/) ]] •
+
+**charts** • **MetaTrader** • [MetaTrader 5](https://www.metatrader5.com) [[ *docs* [MetaQuotes (MQL5)](https://www.metatrader5.com/en/automated-trading/mql5) ]] •
+
+**open source** • [agora](https://github.com/HP4k1h5/agora/) • [ghostfolio](https://github.com/ghostfolio/ghostfolio/) •
+
+**portfolio** • **analysis** • [Portfolio Performance](https://www.portfolio-performance.info/en/) •
+  
+**portfolio** • **risk management** • [Ziggma](https://ziggma.com/) • [Risk-O](http://www.risk-o.com/) •
+
+**portfolio** • **trading journals** • [EdgeWonk](https://edgewonk.com) • [TradesViz](https://www.tradesviz.com) • [TraderVue](https://www.tradervue.com) •
+
+---
+
+</details>
 
 <p align="center"><b>• QUANT •</b></br></p>
 
@@ -118,47 +129,71 @@
   
 ---
 
-• [GitHub](https://github.com/) • [GitHub Docs](https://docs.github.com/) • [Awesome READMEs](https://awesomegithubprofile.tech) •
+• [GitHub](https://github.com/) • [DataCamp](https://www.datacamp.com) • [Kaggle](https://www.kaggle.com) • [Tradologics](https://tradologics.com/) •
 
 ---
 
 </details>
 
-<details><summary><b>python</b> • environment • frameworks • packages  • </summary>
-  
+<details><summary><b>algorithmic trading</b></summary>
+
 ---
 
-**environment** • [Anaconda](https://www.anaconda.com/) • [repl.it](https://replit.com/) • [PythonAnywhere](https://www.pythonanywhere.com/) •
+**backtest** • [QuantRocket](https://www.quantrocket.com) • [Blueshift](https://blueshift.quantinsti.com) •
+
+**backtest** • **Backtrader** • [Backtrader](https://backtrader.com) • [Data Feeds](https://www.backtrader.com/docu/datafeed/) •
+
+**backtest** • **QuantConnect** • [QuantConnect](https://www.quantconnect.com) [[ *features* • [LEAN Trading Engine](https://www.lean.io) • [LEAN CLI](https://www.lean.io/cli/) ]] •
+
+**strategy automation** • [Tradologics](https://tradologics.com/) • [Bots.io](https://www.bots.io) • [BreakingEquity](https://www.breakingequity.com) •
+
+---
+
+</details>
+
+<details><summary><b>python</b></summary>
+
+---
+
+**environment** • [Repl.it](https://replit.com/) • [PythonAnywhere](https://www.pythonanywhere.com/) • [Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) • [Anaconda](https://www.anaconda.com/) 
 
 **package managers** • [Python Package Index](https://pypi.org/) • [pip](https://pypi.org/project/pip/) • [pipenv](https://pypi.org/project/pipenv/) • [conda](https://docs.conda.io/en/latest/) • [poetry](https://python-poetry.org/) •
 
-**language** • [Python Org](https://www.python.org/) •
+**packages** • **data retrieval** • [yfinance](https://pypi.org/project/yfinance/) • [tiingo](https://pypi.org/project/tiingo/) • [tradingview-ta](https://pypi.org/project/tradingview-ta/) •
 
-**data visualization packages** • [bqplot](https://pypi.org/project/bqplot/) •
+**packages** • **data storage** • [PyStore](https://pypi.org/project/PyStore/) •
+
+**packages** • **data visualization** • [bqplot](https://pypi.org/project/bqplot/) •
+
+**resources** • [Python Org](https://www.python.org/) •
 
 ---
 
 </details>
 
-<details><summary><b>pinescript</b> • environment • frameworks • packages • </summary>
-  
+<details><summary><b>pinescript</b></summary>
+
 ---
 
-**language** • [PineScript V4 Docs](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html) • [PineCoders](https://www.pinecoders.com/) •
+**education** • [PineCoders](https://www.pinecoders.com/) •
+
+**resources** • [PineScript V4 Docs](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html) •
 
 ---
 
 </details>
 
 <details><summary><b>tools</b></summary>
-  
----
 
-**vs code** • [Visual Studio Code](https://code.visualstudio.com) • [Getting started](https://code.visualstudio.com/docs/introvideos/basics) • [Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) •
+---
 
 **environment** • [CodeSandbox](https://codesandbox.io) •
 
+**environment** • **vs code** • [Visual Studio Code](https://code.visualstudio.com) • [Getting started](https://code.visualstudio.com/docs/introvideos/basics) •
+
 **tunnel** • [Ngrox](https://ngrok.com) •
+
+**version control** • [GitHub](https://github.com/) • [GitHub Docs](https://docs.github.com/) • [Awesome READMEs](https://awesomegithubprofile.tech) •
 
 ---
 
