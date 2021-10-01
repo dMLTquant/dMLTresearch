@@ -32,3 +32,4 @@
 ### Technical analysis
 
 - [Autoregressive Integrated Moving Average (ARIMA)](/docs/technical-analysis/autoregressive-integrated-moving-average.md)
+- [Balance of Power (BoP)](/docs/technical-analysis/balance-of-power.md)
