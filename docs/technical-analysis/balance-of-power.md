@@ -19,7 +19,7 @@
 
 </details>
 
-The Balance of Power indicator developed by Igor Livshen is a typical oscillator that indicates trend continuation and reversal. The Balance of Power indicator can be used on your trading platform charts to help filter potential trading signals as part of an overall trading strategy.
+The Balance of Power indicator developed by Igor Livshen is a typical oscillator that indicates trend continuation and reversal.
 
 ### Formula
 
@@ -29,4 +29,7 @@ BOP = SMA of [ (Close - Open) / (High - Low) ]
 
 ### Strategy
 
-A simple trading system based on the Balance of Power indicator would suggest to `buy` when **BOP becomes positive** as it crosses above `zero line` and `sell` when **BOP becomes negative** as it crosses below `zero line`.
+A simple trading system based on the Balance of Power indicator would suggest to 
+
+- `buy` when **BOP becomes positive** as it crosses above `zero line` 
+- `sell` when **BOP becomes negative** as it crosses below `zero line`
