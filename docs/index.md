@@ -13,7 +13,11 @@
 ### Data science
 
 - [Data companies](/docs/data-science/data-companies.md)
+
+#### Python 
+
 - [Python](/docs/data-science/python.md)
+- [Zen of Python](/docs/data-science/python_zen.md)
 
 ### Trading data
 
