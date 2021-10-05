@@ -14,6 +14,12 @@
 
 ---
 
+- [BIS | Digital currencies and the future of the monetary system](https://www.bis.org/speeches/sp210127.htm)
+- [BIS | CBDCs beyond borders: results from a survey of central banks](https://www.bis.org/publ/bppdf/bispap116.htm)
+- [BIS | Central bank digital currencies](https://www.bis.org/cpmi/publ/d174.htm)
+- [BIS | Central bank digital currencies: foundational principles and core features(https://www.bis.org/publ/othp33.htm)
+- [BIS | Fintech and payments: regulating digital payment services and e-money](https://www.bis.org/fsi/publ/insights33.htm)
+
 ---
 
 </details>
