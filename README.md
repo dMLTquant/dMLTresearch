@@ -99,11 +99,13 @@
 
 </details>
 
-<details><summary><b>tools</b></summary>
+<details><summary><b>tools and services</b></summary>
 
 ---
 
-**brokers** • [Alpaca](https://alpaca.markets/) • [OandA](https://www.oanda.com/) • [Darwinex](https://www.darwinex.com) • [WealthSimple](https://www.wealthsimple.com/) • [Nutmeg](https://www.nutmeg.com) • [Interactive Brokers](https://www.interactivebrokers.com/) • [Trading212](https://www.trading212.com/) • [FreeTrade](https://freetrade.io/) • [Interactive Investor](https://www.ii.co.uk/) •
+**brokers** • [Alpaca](https://alpaca.markets/) • [OandA](https://www.oanda.com/) • [WealthSimple](https://www.wealthsimple.com/) • [Nutmeg](https://www.nutmeg.com) • [Interactive Brokers](https://www.interactivebrokers.com/) • [Trading212](https://www.trading212.com/) • [FreeTrade](https://freetrade.io/) • [Interactive Investor](https://www.ii.co.uk/) •
+
+**brokers** • **Proprietary Trading Firms** • [FTMO](https://ftmo.com/en/) • [Darwinex](https://www.darwinex.com) •
 
 **charts** • [TrendSpider](https://trendspider.com) • [AutoChartist](https://www.autochartist.com/) • [yCharts](https://ycharts.com) •
 
