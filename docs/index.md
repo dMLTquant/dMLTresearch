@@ -13,7 +13,11 @@
 ### Data science
 
 - [Data companies](/docs/data-science/data-companies.md)
+
+#### Python 
+
 - [Python](/docs/data-science/python.md)
+- [Zen of Python](/docs/data-science/python_zen.md)
 
 ### Trading data
 
@@ -32,3 +36,4 @@
 ### Technical analysis
 
 - [Autoregressive Integrated Moving Average (ARIMA)](/docs/technical-analysis/autoregressive-integrated-moving-average.md)
+- [Balance of Power (BoP)](/docs/technical-analysis/balance-of-power.md)
