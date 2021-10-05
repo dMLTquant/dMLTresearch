@@ -159,7 +159,9 @@
 
 ---
 
-**environment** • [Repl.it](https://replit.com/) • [PythonAnywhere](https://www.pythonanywhere.com/) • [Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) • [Anaconda](https://www.anaconda.com/) 
+**environment** • [Repl.it](https://replit.com/) • [PythonAnywhere](https://www.pythonanywhere.com/) • [Anaconda](https://www.anaconda.com/) • [DataLore](https://datalore.jetbrains.com/) • [Deepnote](https://deepnote.com/) •
+
+**environment** • **IDEs** • [Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) • [Spyder](https://www.spyder-ide.org/) • [DataSpell](https://www.jetbrains.com/dataspell/) •
 
 **package managers** • [Python Package Index](https://pypi.org/) • [pip](https://pypi.org/project/pip/) • [pipenv](https://pypi.org/project/pipenv/) • [conda](https://docs.conda.io/en/latest/) • [poetry](https://python-poetry.org/) •
 
