@@ -33,6 +33,12 @@ print('\n')
 [print(item) for item in os.environ['PATH'].split(';')]
 ```
 
+This script has been saved in [print_env_var.py](/scripts/python/utils/print_env_var.py) and can be run directly from GitHub using
+
+```bash
+curl -sSL https://raw.githubusercontent.com/dMLTquant/dMLTresearch/main/scripts/python/utils/print_env_var.py | python3 -
+```
+
 ### Help
 
 ```bash
