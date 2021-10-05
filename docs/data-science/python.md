@@ -35,7 +35,7 @@ print('\n')
 
 ### Help
 
-``` python
+```bash
 python -h
 ```
 
@@ -43,7 +43,7 @@ python -h
 
 #### List globally installed packages and their version
 
-``` python
+```bash
 pip list
 ```
 
@@ -51,7 +51,7 @@ pip list
 
 By default pip installs packages globally. In order to list packages that have been installed locally with the `–user` option can also be listed using the same `–user` option
 
-``` python
+```bash
 pip list --user
 ```
 
@@ -59,13 +59,13 @@ pip list --user
 
 #### Install
 
-``` python
+```bash
 curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
 ```
 
 #### Uninstall
 
-``` python
+```bash
 curl -sSL https://raw.githubusercontent.com/sdispater/poetry/master/get-poetry.py | python - --uninstall
 ```
 
@@ -73,6 +73,6 @@ curl -sSL https://raw.githubusercontent.com/sdispater/poetry/master/get-poetry.p
 
 Python can import a module or package when you use the `-m` [command-line flag](https://docs.python.org/2/using/cmdline.html#cmdoption-m)
 
-``` python
+```bash
 python -m pip list
 ```
