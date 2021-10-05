@@ -27,6 +27,7 @@
 
 ### Forex
 
+- [Digital currencies](/docs/forex/digital-currencies.md)
 - [Forex concepts](/docs/forex/forex-concepts.md)
 
 ### Macroeconomics
