@@ -32,6 +32,7 @@
 ### Macroeconomics
 
 - [Gross Domestic Product (GDP)](/docs/macroeconomics/gdp--gross-domestic-product.md)
+- [World Economic Outlook](/docs/macroeconomics/world-economic-outlook.md)
 
 ### Technical analysis
 
