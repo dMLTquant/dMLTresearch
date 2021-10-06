@@ -8,13 +8,6 @@
 
 # Index
 
-## Quant
-
-### Python 
-
-- [Python](/docs/quant_python/python.md)
-- [Zen of Python](/docs/quant_python/python_zen.md)
-
 ## Finance
 
 ### Data
@@ -41,3 +34,9 @@
 - [Autoregressive Integrated Moving Average (ARIMA)](/docs/finance_technical-analysis/autoregressive-integrated-ma.md)
 - [Balance of Power (BoP)](/docs/finance_technical-analysis/balance-of-power.md)
 
+## Quant
+
+### Python 
+
+- [Python](/docs/quant_python/python.md)
+- [Zen of Python](/docs/quant_python/python_zen.md)
