@@ -34,6 +34,7 @@
 ### Research 
 
 - [Data companies](/docs/finance_research/data-companies.md)
+- [Software companies](/docs/finance_research/software-companies.md)
 
 ### Technical analysis
 
