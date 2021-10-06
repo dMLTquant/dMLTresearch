@@ -8,34 +8,35 @@
 
 # Index
 
-## Data
+## Quant
 
-### Data science
+### Python 
 
-- [Data companies](/docs/data-science/data-companies.md)
+- [Python](/docs/quant_python/python.md)
+- [Zen of Python](/docs/quant_python/python_zen.md)
 
-#### Python 
+## Finance
 
-- [Python](/docs/data-science/python.md)
-- [Zen of Python](/docs/data-science/python_zen.md)
+### Data
 
-### Trading data
-
-- [Commitment of Traders (COT)](/docs/data/cot--commitments-of-traders.md)
-
-## Trading
+- [Commitment of Traders (COT)](/docs/finance_data/cot_commitments-of-traders.md)
 
 ### Forex
 
-- [Digital currencies](/docs/forex/digital-currencies.md)
-- [Forex concepts](/docs/forex/forex-concepts.md)
+- [Digital currencies](/docs/finance_forex/digital-currencies.md)
+- [Forex concepts](/docs/finance_forex/forex-concepts.md)
 
 ### Macroeconomics
 
-- [Gross Domestic Product (GDP)](/docs/macroeconomics/gdp--gross-domestic-product.md)
-- [World Economic Outlook](/docs/macroeconomics/world-economic-outlook.md)
+- [Gross Domestic Product (GDP)](/docs/finance_macroeconomics/gdp_gross-domestic-product.md)
+- [World Economic Outlook](/docs/finance_macroeconomics/world-economic-outlook.md)
+
+### Research 
+
+- [Data companies](/docs/finance_research/data-companies.md)
 
 ### Technical analysis
 
-- [Autoregressive Integrated Moving Average (ARIMA)](/docs/technical-analysis/autoregressive-integrated-moving-average.md)
-- [Balance of Power (BoP)](/docs/technical-analysis/balance-of-power.md)
+- [Autoregressive Integrated Moving Average (ARIMA)](/docs/finance_technical-analysis/autoregressive-integrated-ma.md)
+- [Balance of Power (BoP)](/docs/finance_technical-analysis/balance-of-power.md)
+
