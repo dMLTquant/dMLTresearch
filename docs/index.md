@@ -8,6 +8,8 @@
 
 # Index
 
+- [Terminology](/docs/terminology.md)
+
 ## Finance
 
 ### Data
