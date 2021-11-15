@@ -95,7 +95,7 @@
 
 **intelligence** • [World Economic Forum](https://www.weforum.org/)
 
-**news** • [Bloomberg](https://www.bloomberg.com/) • [Wall Street Journal](https://www.wsj.com/) • [Barrons](https://www.barrons.com/) • [Reuters](https://www.reuters.com/) • [MarketWatch](https://www.marketwatch.com/) • [Tiingo](https://www.tiingo.com/) • [Benzinga](https://pro.benzinga.com/) • [IMF Finance and Development](https://www.imf.org/external/pubs/ft/fandd/index.htm) •
+**news** • [Bloomberg](https://www.bloomberg.com/) • [Wall Street Journal](https://www.wsj.com/) • [Barrons](https://www.barrons.com/) • [Reuters](https://www.reuters.com/) • [MarketWatch](https://www.marketwatch.com/) • [Tiingo](https://www.tiingo.com/) • [Benzinga](https://pro.benzinga.com/) • [IMF Finance and Development](https://www.imf.org/external/pubs/ft/fandd/index.htm) • [TechCrunch](https://techcrunch.com/) •
 
 ---
 
