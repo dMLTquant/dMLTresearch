@@ -27,6 +27,12 @@
 
 ---
 
+| **Q**         | description                     |
+| --------------| --------------------------------|
+| Quantitative easing     | [Wikipedia](https://en.wikipedia.org/wiki/Quantitative_easing): Quantitative easing (QE) is a monetary policy whereby a central bank purchases predetermined amounts of government bonds or other financial assets (e.g., municipal bonds, corporate bonds, stocks, etc.) in order to inject money into the economy to expand economic activity. The aim is to reduce the cost of borrowing across the entire economy.  |
+
+---
+
 | **S**         | description                     |
 | --------------| --------------------------------|
 | Systematic trading     | [Wikipedia](https://en.wikipedia.org/wiki/Systematic_trading): Systematic trading (also known as mechanical trading) is a way of defining trade goals, risk controls and rules that can make investment and trading decisions in a methodical way |
