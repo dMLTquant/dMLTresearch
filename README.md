@@ -143,11 +143,15 @@
 
 ---
 
-**backtest** • [QuantRocket](https://www.quantrocket.com) • [Blueshift](https://blueshift.quantinsti.com) •
+**backtest** • [QuantRocket](https://www.quantrocket.com) • [Blueshift](https://blueshift.quantinsti.com) • [TradingView](https://www.tradingview.com/)
 
 **backtest** • **Backtrader** • [Backtrader](https://backtrader.com) • [Data Feeds](https://www.backtrader.com/docu/datafeed/) •
 
 **backtest** • **QuantConnect** • [QuantConnect](https://www.quantconnect.com) [[ *features* • [LEAN Trading Engine](https://www.lean.io) • [LEAN CLI](https://www.lean.io/cli/) ]] •
+  
+**backtest** • **TradingView PineScript** • [PineScript Libraries](https://www.tradingview.com/pine-script-docs/en/v5/concepts/Libraries.html) •
+  
+**education** • **TradingView PineScript** • [PineCoders](https://www.pinecoders.com/) • [PineScript V4 Docs](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html) •
 
 **strategy automation** • [Tradologics](https://tradologics.com/) • [Bots.io](https://www.bots.io) • [BreakingEquity](https://www.breakingequity.com) •
 
@@ -172,20 +176,6 @@
 **packages** • **data visualization** • [bqplot](https://pypi.org/project/bqplot/) •
 
 **resources** • [Python Org](https://www.python.org/) •
-
----
-
-</details>
-
-<details><summary><b>pinescript</b></summary>
-
----
-
-**education** • [PineCoders](https://www.pinecoders.com/) •
-
-**resources** • [PineScript V4 Docs](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html) •
-
----
 
 </details>
 
