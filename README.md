@@ -67,7 +67,7 @@
 
 **statistics** • **europe** • [EuroStat](https://ec.europa.eu/eurostat/) • [European National Statistical Institutes](https://ec.europa.eu/eurostat/web/links) • 
 
-**statistics** • **uk** • [UK Statistical System](https://www.statisticsauthority.gov.uk/) • [London DataStore](https://data.london.gov.uk) • 
+**statistics** • **uk** • [UK Statistical System](https://www.statisticsauthority.gov.uk/) • [UK GOV Open Data](https://data.gov.uk/) • [London DataStore](https://data.london.gov.uk) • 
 
 **statistics** • **us** • [US Bureau of Economic Analysis](https://www.bea.gov/) 
 
