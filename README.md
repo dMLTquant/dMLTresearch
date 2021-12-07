@@ -90,6 +90,8 @@
 **communities** • [seekingalpha](https://seekingalpha.com/) • [stocktwits](https://stocktwits.com/) •
 
 **education** • [Investopedia](https://www.investopedia.com/) • [Quantocracy](https://quantocracy.com) •
+  
+**indices** • [Bloomberg Currency Indices](https://www.bloomberg.com/professional/product/indices/bloomberg-currency-indices/) •
 
 **forex** • [MarketMilk](https://marketmilk.babypips.com) • [BabyPips](https://www.babypips.com/) • 
 
@@ -114,8 +116,6 @@
 **charts** • **TradingView** • [TradingView](https://www.tradingview.com/) [[ *docs* • [PineScript V4](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html) • *features* • [Spark](https://www.tradingview.com/sparks/) • [Formula Charts](https://www.tradingview.com/chart/AAPL/ZtMqr022-Create-Your-Own-Formula-and-Chart-It/) • [Heatmaps](https://www.tradingview.com/heatmap/stock/?color=change&dataset=SPX500&group=sector&size=market_cap_basic) • *education* • [Kodify](https://kodify.net/tradingview-programming-articles/) • [TradingCode](https://www.tradingcode.net/tradingview-pine-script-course/) ]] •
 
 **charts** • **MetaTrader** • [MetaTrader 5](https://www.metatrader5.com) [[ *docs* [MetaQuotes (MQL5)](https://www.metatrader5.com/en/automated-trading/mql5) ]] •
-
-**indices** • [Bloomberg Currency Indices](https://www.bloomberg.com/professional/product/indices/bloomberg-currency-indices/) •
   
 **open source** • [agora](https://github.com/HP4k1h5/agora/) • [ghostfolio](https://github.com/ghostfolio/ghostfolio/) •
 
