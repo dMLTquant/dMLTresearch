@@ -115,6 +115,8 @@
 
 **charts** • **MetaTrader** • [MetaTrader 5](https://www.metatrader5.com) [[ *docs* [MetaQuotes (MQL5)](https://www.metatrader5.com/en/automated-trading/mql5) ]] •
 
+**indices** • [Bloomberg Currency Indices](https://www.bloomberg.com/professional/product/indices/bloomberg-currency-indices/) •
+  
 **open source** • [agora](https://github.com/HP4k1h5/agora/) • [ghostfolio](https://github.com/ghostfolio/ghostfolio/) •
 
 **portfolio** • **analysis** • [Portfolio Performance](https://www.portfolio-performance.info/en/) •
