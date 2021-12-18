@@ -8,6 +8,7 @@
 
 # Index
 
+- [Financial Markets History](/docs/finance_history.md)
 - [Terminology](/docs/terminology.md)
 
 ## Finance
