@@ -48,6 +48,7 @@
 
 | **S**         | description                     |
 | --------------| --------------------------------|
+| Santa Claus Rally    | The term was first introduced in 1972, when author and analyst Yale Hirsch, first referenced the Santa Claus rally in "The Stock Trader's Almanac". [Investopedia](https://www.investopedia.com/terms/s/santaclauseffect.asp): A Santa Claus rally describes a sustained increase in the stock market that occurs in the last week of December through the first two trading days in January.  |
 | Systematic trading     | [Wikipedia](https://en.wikipedia.org/wiki/Systematic_trading): Systematic trading (also known as mechanical trading) is a way of defining trade goals, risk controls and rules that can make investment and trading decisions in a methodical way |
 
 ---
