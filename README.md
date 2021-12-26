@@ -145,7 +145,7 @@
 
 ---
 
-**backtest** • [QuantRocket](https://www.quantrocket.com) • [Blueshift](https://blueshift.quantinsti.com) • [TradingView](https://www.tradingview.com/)
+**backtest** • [QuantRocket](https://www.quantrocket.com) • [Blueshift](https://blueshift.quantinsti.com) • [TradingView](https://www.tradingview.com/) • [Tradewell](https://www.tradewell.app/)
 
 **backtest** • **Backtrader** • [Backtrader](https://backtrader.com) • [Data Feeds](https://www.backtrader.com/docu/datafeed/) •
 
