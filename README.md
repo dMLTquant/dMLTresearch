@@ -91,7 +91,7 @@
 
 **education** • [Investopedia](https://www.investopedia.com/) • [Quantocracy](https://quantocracy.com) •
   
-**indices** • [Bloomberg Currency Indices](https://www.bloomberg.com/professional/product/indices/bloomberg-currency-indices/) •
+**indices** • [Bloomberg Currency Indices](https://www.bloomberg.com/professional/product/indices/bloomberg-currency-indices/) • [ICE U.S. Dollar Index (USDX)](https://www.theice.com/forex/usdx) •
 
 **forex** • [MarketMilk](https://marketmilk.babypips.com) • [BabyPips](https://www.babypips.com/) • 
 
