@@ -115,7 +115,7 @@
 
 **charts** • [TrendSpider](https://trendspider.com) • [AutoChartist](https://www.autochartist.com/) • [yCharts](https://ycharts.com) •
 
-**charts** • **TradingView** • [TradingView](https://www.tradingview.com/) [[ *docs* • [PineScript V4](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html) • *features* • [Spark](https://www.tradingview.com/sparks/) • [Formula Charts](https://www.tradingview.com/chart/AAPL/ZtMqr022-Create-Your-Own-Formula-and-Chart-It/) • [Heatmaps](https://www.tradingview.com/heatmap/stock/?color=change&dataset=SPX500&group=sector&size=market_cap_basic) • *education* • [Kodify](https://kodify.net/tradingview-programming-articles/) • [TradingCode](https://www.tradingcode.net/tradingview-pine-script-course/) ]] •
+**charts** • **TradingView** • [TradingView](https://www.tradingview.com/) [[ *docs* • [PineScript V4](https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html) • *features* • [Spark](https://www.tradingview.com/sparks/) • [Formula Charts](https://www.tradingview.com/chart/AAPL/ZtMqr022-Create-Your-Own-Formula-and-Chart-It/) • [Heatmaps](https://www.tradingview.com/heatmap/stock/?color=change&dataset=SPX500&group=sector&size=market_cap_basic) • *education* • [Kodify](https://kodify.net/tradingview-programming-articles/) • [TradingCode](https://www.tradingcode.net/tradingview-pine-script-course/) • *status* • [Status](https://status.tradingview.com) ]] •
 
 **charts** • **MetaTrader** • [MetaTrader 5](https://www.metatrader5.com) [[ *docs* [MetaQuotes (MQL5)](https://www.metatrader5.com/en/automated-trading/mql5) ]] •
   
