@@ -95,9 +95,11 @@
 
 **forex** • [MarketMilk](https://marketmilk.babypips.com) • [BabyPips](https://www.babypips.com/) • 
 
-**intelligence** • [World Economic Forum](https://www.weforum.org/)
+**intelligence** • [World Economic Forum](https://www.weforum.org/) • [CME Group Insights](https://www.cmegroup.com/insights.html)
 
 **news** • [Bloomberg](https://www.bloomberg.com/) • [Wall Street Journal](https://www.wsj.com/) • [Barrons](https://www.barrons.com/) • [Financial Times](https://www.ft.com) • [Reuters](https://www.reuters.com/) • [MarketWatch](https://www.marketwatch.com/) • [Tiingo](https://www.tiingo.com/) • [Benzinga](https://pro.benzinga.com/) • [IMF Finance and Development](https://www.imf.org/external/pubs/ft/fandd/index.htm) • [TechCrunch](https://techcrunch.com/) •
+
+**sentiment** • [CME Group Market Sentiment Meter](https://www.cmegroup.com/tools-information/market-sentiment-meter.html) • [IG Client Sentiment](https://www.dailyfx.com/sentiment) • [IG Client Sentiment Report](https://www.dailyfx.com/sentiment-report)
 
 ---
 
