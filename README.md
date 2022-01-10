@@ -63,7 +63,7 @@
 
 **macroeconomics** • **central banks** • [US Federal Reserve (FED)](https://www.federalreserve.gov/) • [US Securities and Exchange Commision (SEC)](https://www.sec.gov/) [[ [US SEC EDGAR Search](https://www.sec.gov/edgar/search-and-access) ]] • [European Central Bank (ECB)](https://www.ecb.europa.eu/) [[ [ECB Statistical Data Warehouse (SDW) ](https://sdw.ecb.europa.eu/) • [ECB SDW Search](https://sdw.ecb.europa.eu/intelligentsearch/) ]] • [Bank of England (BoE)](https://www.bankofengland.co.uk/) • [Bank of Japan (BoJ)](https://www.boj.or.jp/en/index.htm/) • 
 
-**macroeconomics** • **world banks** • [World Bank](https://www.worldbank.org/) [[ [ World Bank Datacatalog](https://datacatalog.worldbank.org/) ]] • [Bank for International Settlements (BIS)](https://www.bis.org) • [International Monetary Fund (IMF)](https://www.imf.org/) • 
+**macroeconomics** • **world banks** • [World Bank](https://www.worldbank.org/) [[ [World Bank Datacatalog](https://datacatalog.worldbank.org/) ]] • [Bank for International Settlements (BIS)](https://www.bis.org) • [International Monetary Fund (IMF)](https://www.imf.org/) • 
 
 **statistics** • **europe** • [EuroStat](https://ec.europa.eu/eurostat/) • [European National Statistical Institutes](https://ec.europa.eu/eurostat/web/links) • 
 
@@ -71,7 +71,7 @@
 
 **statistics** • **us** • [US Bureau of Economic Analysis](https://www.bea.gov/) 
 
-**trading data** • [Nasdaq](https://www.nasdaq.com/) [[ *features* • [Data Link (Quandl)](https://data.nasdaq.com/) • [Trading Halts](http://www.nasdaqtrader.com/Trader.aspx?id=TradeHalts) ]] • [NYSE](https://www.nyse.com/) [[ *features* • [Trading Halts](https://www.nyse.com/trade-halt-current) ]] • [ICE](https://www.ice.com/) • [CME Group](https://www.cmegroup.com/) • [MacroTrends](http://www.macrotrends.net/) • [Yahoo Finance](https://finance.yahoo.com/) • [Google Finance](https://www.google.com/docs/) •
+**trading data** • [Nasdaq](https://www.nasdaq.com/) [[ *features* • [Data Link (Quandl)](https://data.nasdaq.com/) • [Trading Halts](http://www.nasdaqtrader.com/Trader.aspx?id=TradeHalts) ]] • [NYSE](https://www.nyse.com/) [[ *features* • [Trading Halts](https://www.nyse.com/trade-halt-current) ]] • [ICE](https://www.ice.com/) • [CME Group](https://www.cmegroup.com/) [[ [CME Group Block Trades](https://www.cmegroup.com/clearing/operations-and-deliveries/accepted-trade-types/block-data.html) ]] • [MacroTrends](http://www.macrotrends.net/) • [Yahoo Finance](https://finance.yahoo.com/) • [Google Finance](https://www.google.com/docs/) • [Tradingster COT Reports](https://www.tradingster.com) • 
 
 **trading data** • **dashboards** • [Bloomberg Professional](https://www.bloomberg.com/professional/) • [Money Net](https://www.money.net/) • [Tiingo](https://www.tiingo.com/) • [KoyFin](https://www.koyfin.com/) • [DarQube](https://darqube.io/) •
 
