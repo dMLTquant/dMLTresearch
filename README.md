@@ -85,7 +85,7 @@
 
 ---
 
-**calendar** • [TradingEconomics](https://tradingeconomics.com/calendar) • [BabyPips](https://www.babypips.com/economic-calendar) • [Forex Factory](https://www.forexfactory.com/calendar) •
+**calendar** • [TradingEconomics](https://tradingeconomics.com/calendar) • [BabyPips](https://www.babypips.com/economic-calendar) • [Forex Factory](https://www.forexfactory.com/calendar) • [MetaTrader Calendar](https://www.mql5.com/en/economic-calendar) •
 
 **communities** • [seekingalpha](https://seekingalpha.com/) • [stocktwits](https://stocktwits.com/) •
 
